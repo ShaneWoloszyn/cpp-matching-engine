@@ -1,0 +1,9 @@
+build/
+*.pyd
+*.so
+*.exe
+*.a
+*.lib
+__pycache__/
+.pytest_cache/
+*.pyc
