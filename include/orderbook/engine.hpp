@@ -7,7 +7,6 @@
 #include <unordered_map>
 #include <memory>
 #include <optional>
-#include <string_view>
 
 namespace orderbook {
 
